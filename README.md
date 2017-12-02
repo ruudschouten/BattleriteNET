@@ -37,4 +37,4 @@ Gets first 5 matches from API where player with `playerId` participated
 Gets first 5 matches from API where player with `playerName` participated
 
 ## Frameworks used:  
-- [Restsharp](https://github.com/restsharp/RestSharp)
+- [RestSharp](https://github.com/restsharp/RestSharp)
