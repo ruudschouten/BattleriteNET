@@ -60,6 +60,7 @@
     <Compile Include="Json\Attribute.cs" />
     <Compile Include="Json\Player.cs" />
     <Compile Include="Json\Team.cs" />
+    <Compile Include="MasterBattlerite\Player.cs" />
     <Compile Include="Objects\Match.cs" />
     <Compile Include="Objects\Participant.cs" />
     <Compile Include="Objects\Roster.cs" />

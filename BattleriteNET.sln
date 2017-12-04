@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleriteNET", "BattleriteNET\BattleriteNET.csproj", "{D8918B91-49A1-4189-B2B3-71F56B9083AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleriteNET", "BattleriteNET\BattleriteNET.csproj", "{4D56030C-680D-4247-8539-1A34A4C735B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{0FACEA57-0F0A-4DBC-8170-F43EE16BE1D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D8918B91-49A1-4189-B2B3-71F56B9083AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D8918B91-49A1-4189-B2B3-71F56B9083AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D8918B91-49A1-4189-B2B3-71F56B9083AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D8918B91-49A1-4189-B2B3-71F56B9083AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D56030C-680D-4247-8539-1A34A4C735B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D56030C-680D-4247-8539-1A34A4C735B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D56030C-680D-4247-8539-1A34A4C735B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D56030C-680D-4247-8539-1A34A4C735B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FACEA57-0F0A-4DBC-8170-F43EE16BE1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FACEA57-0F0A-4DBC-8170-F43EE16BE1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FACEA57-0F0A-4DBC-8170-F43EE16BE1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FACEA57-0F0A-4DBC-8170-F43EE16BE1D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
