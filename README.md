@@ -33,7 +33,7 @@ Resets filter
 `GetMatchesFromPlayedId(playerId)`  
 Gets first 5 matches from API where player with `playerId` participated
 
-`GetMatchesFromPlayerName(string name)` **Doesn't work yet, as the API hasn't implemented players yet**  
+`GetMatchesFromPlayerName(string name)`  
 Gets first 5 matches from API where player with `playerName` participated
 
 ## Frameworks used:  
