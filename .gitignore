@@ -6,6 +6,11 @@
 #Testing
 /Tester/*
 
+# NuGet
+nuget.exe
+**.nuspec**
+**.nupkg**
+
 # User-specific files
 *.suo
 *.user
