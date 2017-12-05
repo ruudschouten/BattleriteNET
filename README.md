@@ -20,6 +20,8 @@ static void Main(string[] args) {
     client.ResetFilter();
     //Get matches from playerId
     client.GetMatchesFromPlayerId("playerId");
+    //Get matches from username
+    client.GetMatchesFromPlayerName("Username");
 }
 ```
 
