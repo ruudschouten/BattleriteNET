@@ -1,6 +1,12 @@
 # BattleriteNET
 A C# library for use with the official [Battlerite API](http://battlerite-docs.readthedocs.io/en/master/introduction.html)
 
+## Getting started
+You can clone the repo, and import it in Visual Studio.  
+> You can do this by opening your solution, click Open > Browse to the Solution > Make sure the "Add to solution" option is checked > Then click open.  
+
+Or you can install it from [NuGet](https://www.nuget.org/packages/BattleriteNET/)
+
 ## Basic Usage
 ```csharp
 static void Main(string[] args) {
